@@ -29,9 +29,10 @@ export default function Page() {
               src="/syst-prev.jpg" 
               alt="System Preview" 
               fill 
-              className="object-cover" 
-              priority
-              unoptimized
+            className="object-contain"
+            priority
+             unoptimized={true}
+              
             />
           </div>
         </div>
