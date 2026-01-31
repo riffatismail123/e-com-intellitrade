@@ -30,6 +30,7 @@ export default function Page() {
               alt="System Preview" 
               fill 
               className="object-cover" 
+              priority
             />
           </div>
         </div>
